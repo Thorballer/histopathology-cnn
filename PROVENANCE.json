@@ -1,0 +1,17 @@
+{
+  "project": "histopathology-cnn",
+  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "sources": [
+    {
+      "file": "notebooks/cnn-skin-cancer.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/cnn-skin-cancer",
+      "source_title": "CNN_Skin_Cancer",
+      "source_id": 66526687,
+      "last_run_time": "2024-09-29 00:43:30.863000",
+      "original_sha256": "c1b41a04f765f45b3c0db942d726e50f49af646595f869e1c48a6889608e3cc7",
+      "published_sha256": "c1b41a04f765f45b3c0db942d726e50f49af646595f869e1c48a6889608e3cc7",
+      "redactions": [],
+      "executed_outputs_present": false
+    }
+  ]
+}
